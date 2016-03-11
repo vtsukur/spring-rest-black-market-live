@@ -1,0 +1,13 @@
+#
+# Build output files
+#
+build
+
+#
+# IntelliJ IDEA files
+#
+*.iml
+*.ipr
+*.iws
+.idea
+
