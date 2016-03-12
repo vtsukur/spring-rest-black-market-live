@@ -1,6 +1,7 @@
 #
-# Build output files
+# Build files
 #
+.gradle
 build
 
 #
